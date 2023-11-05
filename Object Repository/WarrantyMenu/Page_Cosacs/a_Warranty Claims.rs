@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Warranty Claims</name>
+   <tag></tag>
+   <elementGuidId>543fc4cb-8294-4d43-b071-3c81fd56d005</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='mainMenu']/li[7]/ul/li/ul/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d0291c73-48a6-4b43-b7cd-cd7bd75a554b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Cosacs/Report/DynamicReport/WarrantyClaims</value>
+      <webElementGuid>3abec754-12ed-4a3a-8096-132e74800c45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>f669e37b-9fcd-4897-93a7-1a2bc0d5985f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Warranty Claims</value>
+      <webElementGuid>106728d5-b60b-4a70-be44-c4226cd8aa32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainMenu&quot;)/li[@class=&quot;dropdown ng-scope open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[@class=&quot;ng-scope dropdown-submenu&quot;]/ul[@class=&quot;dropdown-menu ng-scope&quot;]/li[@class=&quot;ng-scope&quot;]/a[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>47ba3f45-c53e-48dd-a1ad-04e38e4fd9fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mainMenu']/li[7]/ul/li/ul/li[5]/a</value>
+      <webElementGuid>ad1b2aa8-e1ef-4f38-bdac-8d55f2eae7a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Warranty Claims')]</value>
+      <webElementGuid>69450160-0e7c-4eea-af42-7416f47b1769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Cosacs/Report/DynamicReport/WarrantyClaims')]</value>
+      <webElementGuid>0dcf9e53-6b85-44f7-84c8-844fffa3a9e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/ul/li/ul/li[5]/a</value>
+      <webElementGuid>702b9f96-f8ac-4af1-b02d-fb66db239d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Cosacs/Report/DynamicReport/WarrantyClaims' and (text() = 'Warranty Claims' or . = 'Warranty Claims')]</value>
+      <webElementGuid>a79a1cd8-694d-49ea-b446-42ea666c2223</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

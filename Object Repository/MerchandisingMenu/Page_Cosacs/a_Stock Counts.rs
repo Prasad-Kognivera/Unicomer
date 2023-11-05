@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Stock Counts</name>
+   <tag></tag>
+   <elementGuidId>d14ae481-009f-4f95-b520-60b000d5bad0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='mainMenu']/li[9]/ul/li[2]/ul/li[12]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d6bda8ce-e685-446d-a0c6-32ebb9c5860e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Cosacs/Merchandising/StockCount</value>
+      <webElementGuid>59fd0fb6-91fa-4f6c-b433-cbbc40034c81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>0fa9b7cc-ba93-4b9f-84a7-f213509b6952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Stock Counts</value>
+      <webElementGuid>e7697d4e-6c29-4c99-8932-0a8e021cda3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainMenu&quot;)/li[@class=&quot;dropdown ng-scope open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[@class=&quot;ng-scope dropdown-submenu&quot;]/ul[@class=&quot;dropdown-menu ng-scope&quot;]/li[@class=&quot;ng-scope&quot;]/a[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>79a45d49-67ac-4d98-b783-bac2601f0c26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mainMenu']/li[9]/ul/li[2]/ul/li[12]/a</value>
+      <webElementGuid>a9957735-e0fe-4fc3-9fb1-15c9e2c4d7d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Stock Counts')]</value>
+      <webElementGuid>2b97fb94-9709-4408-8d6e-af1f86e1fc9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/Cosacs/Merchandising/StockCount')])[2]</value>
+      <webElementGuid>c866af1a-0022-4b2b-bfeb-bd62e86e1146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[12]/a</value>
+      <webElementGuid>36aaf76b-2dd6-4e0c-9061-e9c673e6503e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Cosacs/Merchandising/StockCount' and (text() = 'Stock Counts' or . = 'Stock Counts')]</value>
+      <webElementGuid>e4f1f660-9a75-48d4-b2b8-8097b9b274dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

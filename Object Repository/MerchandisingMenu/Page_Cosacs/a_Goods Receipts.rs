@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Goods Receipts</name>
+   <tag></tag>
+   <elementGuidId>d3ee7e9c-6074-4837-b6f6-01de31b3bf56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='mainMenu']/li[9]/ul/li[2]/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7e1b4c9f-37cf-4052-a3a9-eaf9baffa206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Cosacs/Merchandising/GoodsReceipt</value>
+      <webElementGuid>8f2ca57f-e51a-47ec-b96c-7ce2167e600d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>c7d0f961-260a-4f20-b95f-9b9f7967f501</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Goods Receipts</value>
+      <webElementGuid>eaaea934-f636-421c-b78d-c059812243e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainMenu&quot;)/li[@class=&quot;dropdown ng-scope open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[@class=&quot;ng-scope dropdown-submenu&quot;]/ul[@class=&quot;dropdown-menu ng-scope&quot;]/li[@class=&quot;ng-scope&quot;]/a[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>45d8f9de-a854-416e-a949-2a91518bd888</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mainMenu']/li[9]/ul/li[2]/ul/li[3]/a</value>
+      <webElementGuid>5ea21737-1870-4662-b886-fdd3ee804c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Goods Receipts')]</value>
+      <webElementGuid>8a5ec636-b076-4b7f-840c-2d29658ee1c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Cosacs/Merchandising/GoodsReceipt')]</value>
+      <webElementGuid>814852e5-f739-4b69-b6f2-67a5031589c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/ul/li[2]/ul/li[3]/a</value>
+      <webElementGuid>d114b0ea-3923-4242-b5dc-1fbfe46a42c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Cosacs/Merchandising/GoodsReceipt' and (text() = 'Goods Receipts' or . = 'Goods Receipts')]</value>
+      <webElementGuid>ec9aa608-bd62-4932-99bf-4d69906c7bc8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

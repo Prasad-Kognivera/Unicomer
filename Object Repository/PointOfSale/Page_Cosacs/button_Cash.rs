@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cash</name>
+   <tag></tag>
+   <elementGuidId>d0a97fc2-7122-4a9c-82b0-18ed1e6340cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default.btn-lg.btn-block.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payment-methods']/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d5c25dbe-ab0b-4b7f-b09e-535837e7be88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btn-lg btn-block ng-binding</value>
+      <webElementGuid>e950b5d2-0862-4b2b-a344-9d13ed0df02e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'btn-primary': payment.paymentMethodId == method.value}</value>
+      <webElementGuid>320b88f4-51a2-46eb-9ce9-d27903890614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>choosePaymentMethod(method.value, method.type)</value>
+      <webElementGuid>34a535ac-e632-4a5b-8faa-ba17de58eff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-payment-type</name>
+      <type>Main</type>
+      <value>Cash</value>
+      <webElementGuid>72e386cf-d227-46ae-a86d-7002b212c425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Cash
+                        </value>
+      <webElementGuid>b0582a87-cc19-4015-ac0c-31a102b6c81f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment-methods&quot;)/div[@class=&quot;col-md-3 no-margin ng-scope&quot;]/button[@class=&quot;btn btn-default btn-lg btn-block ng-binding&quot;]</value>
+      <webElementGuid>cd3bcd8e-d90b-4675-abe1-6412e7281aa9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payment-methods']/div/button</value>
+      <webElementGuid>922cfd9e-e1e8-42e5-bcee-a40b34b38e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/div/button</value>
+      <webElementGuid>05d472be-fc21-4d8c-b0b4-3dc716cb6811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                            Cash
+                        ' or . = '
+                            Cash
+                        ')]</value>
+      <webElementGuid>a5d73e38-efd1-4400-97d9-de7530a23e0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

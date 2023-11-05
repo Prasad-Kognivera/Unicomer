@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify payment methods available under point of sale screen</description>
+   <name>TC_019_ToVerifyPaymentOption</name>
+   <tag>pointOfSale</tag>
+   <comment></comment>
+   <testCaseGuid>cf03924f-96f4-4a4b-92b4-0b9536cf6313</testCaseGuid>
+</TestCaseEntity>

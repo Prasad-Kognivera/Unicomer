@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TestFirstName</name>
+   <tag></tag>
+   <elementGuidId>60eaa5d6-7ef7-48dd-8e08-707ce41d22d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='searchResult']/div/table/tbody/tr/td[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>46e2e60d-a2ed-42a5-b2c5-a2a591975fd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>item.FirstName</value>
+      <webElementGuid>b6fd282b-eee3-4855-a163-2ea716db0de6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding ng-scope</value>
+      <webElementGuid>c9e87a65-9b60-4e1d-8187-79fc9b1b080e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            TestFirstName
+                            
+                        </value>
+      <webElementGuid>3af21541-8e8c-462d-aa3d-18f949b33127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchResult&quot;)/div[@class=&quot;ng-scope&quot;]/table[@class=&quot;table table-striped table-bordered table-hover table-responsive active table-item&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[2]/div[@class=&quot;ng-binding ng-scope&quot;]</value>
+      <webElementGuid>609a52cb-5ed3-4a40-9350-e0555b2acdfd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='searchResult']/div/table/tbody/tr/td[2]/div[2]</value>
+      <webElementGuid>88d1c637-1d26-49dc-b510-602832d3a6e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div[2]</value>
+      <webElementGuid>c0112ce7-93d8-4e07-a3f9-92c00a6b56ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                            TestFirstName
+                            
+                        ' or . = '
+                            TestFirstName
+                            
+                        ')]</value>
+      <webElementGuid>596ecdd9-afbe-4eae-bf9c-4e712e243b67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

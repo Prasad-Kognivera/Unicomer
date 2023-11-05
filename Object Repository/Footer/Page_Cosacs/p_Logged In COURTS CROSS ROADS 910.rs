@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Logged In COURTS CROSS ROADS 910</name>
+   <tag></tag>
+   <elementGuidId>e1cea770-ca7d-406a-85f1-6a81b5a53260</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='FooterBranch']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#FooterBranch</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>269126b6-eb34-43a7-8ae3-aaec02bc57f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pull-right ng-binding ng-scope</value>
+      <webElementGuid>47bed42c-00fc-4a93-bcfe-6103c466aaf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>FooterBranch</value>
+      <webElementGuid>f832213d-1df6-4d25-bcf7-e3000c7dd69f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>branchName</value>
+      <webElementGuid>fca1374c-3475-4282-858a-2501788f88db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Logged In: COURTS CROSS ROADS 910
+        </value>
+      <webElementGuid>9aba33a8-1f04-4eef-8675-e415ebbb8a8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FooterBranch&quot;)</value>
+      <webElementGuid>c01a13b5-096a-4e65-97f7-354764987915</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='FooterBranch']</value>
+      <webElementGuid>1ae7a7b2-8f19-444f-8a05-5e5d45680142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer']/div/p[2]</value>
+      <webElementGuid>b1a943e7-27a2-4b08-a2ac-56814e797e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>e4fd90fc-953d-4141-a66a-d8ffa93535d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'FooterBranch' and (text() = '
+            Logged In: COURTS CROSS ROADS 910
+        ' or . = '
+            Logged In: COURTS CROSS ROADS 910
+        ')]</value>
+      <webElementGuid>0bce1951-cdf3-443d-96ad-b8a737e800ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

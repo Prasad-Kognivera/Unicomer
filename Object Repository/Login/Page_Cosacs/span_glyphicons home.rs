@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_glyphicons home</name>
+   <tag></tag>
+   <elementGuidId>e90cd2ae-1e54-4677-8912-5b5567334bbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='home']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicons.home</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e67b7ef8-7975-413f-a3ac-fca18b768fa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicons home</value>
+      <webElementGuid>01aa01bf-cc47-4313-8357-d9a4dc56e2d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home&quot;)/span[@class=&quot;glyphicons home&quot;]</value>
+      <webElementGuid>83fb10da-ff00-4c62-82da-88f4e0bba910</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='home']/span</value>
+      <webElementGuid>a4aea81e-4f97-48d1-9b4a-04a9d295169c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[3]/a/span</value>
+      <webElementGuid>81036b49-943f-43a9-a132-77b52683953e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

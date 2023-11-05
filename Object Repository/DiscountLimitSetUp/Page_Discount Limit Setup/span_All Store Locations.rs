@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_All Store Locations</name>
+   <tag></tag>
+   <elementGuidId>a669c4e7-9f06-4457-996e-5eeadb5cb3cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='body']/div/div[2]/table/tbody/tr/td[3]/list/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6dd0ce40-7b6e-425b-8748-f441e720a829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-value ng-binding</value>
+      <webElementGuid>379d11ee-1f8d-4dca-b973-e108d4198731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-hide</name>
+      <type>Main</type>
+      <value>selectedValue</value>
+      <webElementGuid>07a1f9d3-b3cb-46e0-8db4-d971b0120b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Store Locations</value>
+      <webElementGuid>1c6ba90a-27a5-4a55-8776-6f84eff52246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/div[@class=&quot;pos-sales ng-scope&quot;]/div[@class=&quot;col-lg-9 col-md-9 col-md-offset-1&quot;]/table[@class=&quot;data table table-striped table-bordered table-hover table-responsive col-lg-10 col-md-10&quot;]/tbody[1]/tr[1]/td[@class=&quot;col-lg-5 col-md-5&quot;]/list[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope ng-isolate-scope&quot;]/div[@class=&quot;list-container  ng-scope&quot;]/div[@class=&quot;list-placeholder&quot;]/span[@class=&quot;list-value ng-binding&quot;]</value>
+      <webElementGuid>6bf00528-7e47-444f-b405-538467683eba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='body']/div/div[2]/table/tbody/tr/td[3]/list/div/div/span[2]</value>
+      <webElementGuid>ce69e4c5-ddea-47fd-8e13-93d4e73da1a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/list/div/div/span[2]</value>
+      <webElementGuid>af5a8a2c-dc8d-4aaa-84d7-e3c96ed4f25b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'All Store Locations' or . = 'All Store Locations')]</value>
+      <webElementGuid>9331f8d9-adbc-4f8a-a90c-f75562bb737e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ToVerifySearchForStoreNonCourts</description>
+   <name>TC_030_ToVerifySearchForStoreNonCourts</name>
+   <tag>discountLimitSetUp</tag>
+   <comment></comment>
+   <testCaseGuid>9c40f757-f3d3-4fac-b93f-c0220615161b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Required fields are missing</name>
+   <tag></tag>
+   <elementGuidId>313214a3-8e0d-45ea-93a4-b0b93cdfa33f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.growl-message.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/article/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e31c30b7-81ea-464b-a012-b2e1c0283c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-bind-html</name>
+      <type>Main</type>
+      <value>growl.content</value>
+      <webElementGuid>fb42d099-cc49-465d-991a-407b5fdbafd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>growl-message ng-binding</value>
+      <webElementGuid>e51eced3-0968-4873-9ddf-db90109b2ecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Required field/s are missing</value>
+      <webElementGuid>8548f4c8-8777-4899-a105-d86df301ed22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;growl-container growl-fixed.top-center row&quot;]/article[@class=&quot;growl-item ng-scope&quot;]/div[@class=&quot;alert alert-danger alert-dismissable&quot;]/p[@class=&quot;growl-message ng-binding&quot;]</value>
+      <webElementGuid>bd67c53c-feb1-4236-bba2-b291554db5f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>f1d6f54b-bffa-42ea-a50c-e23359f74e1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Required field/s are missing' or . = 'Required field/s are missing')]</value>
+      <webElementGuid>61e5172d-bc0b-4b1e-a05e-1fa6840bbf2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

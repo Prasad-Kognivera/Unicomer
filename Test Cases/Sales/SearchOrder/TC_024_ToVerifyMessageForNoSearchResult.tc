@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To Verify following message is displayed when there is not search criteria available.&#xd;
+&#xd;
+&quot;There are no values matching your search filter.&quot;</description>
+   <name>TC_024_ToVerifyMessageForNoSearchResult</name>
+   <tag>searchOrder</tag>
+   <comment></comment>
+   <testCaseGuid>2d550857-5173-478e-9b94-9afcbe19e2c3</testCaseGuid>
+</TestCaseEntity>

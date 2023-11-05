@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify user is able to search SKU using divison, department and class</description>
+   <name>TC_015_ToVerifySKUsearchByHeirarchy</name>
+   <tag>pointOfSale</tag>
+   <comment></comment>
+   <testCaseGuid>0d0fd099-9b79-456f-9f85-b73c6f8475eb</testCaseGuid>
+</TestCaseEntity>

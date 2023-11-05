@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_glyphicons play</name>
+   <tag></tag>
+   <elementGuidId>2ed82f0a-334b-4479-94f1-ed6d998231b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.glyphicons.play</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//list[@id='branchNo']/div/div[3]/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e385ade4-2d16-4392-a03c-2b657e95074c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicons play</value>
+      <webElementGuid>39763abf-4da0-499c-ab5b-2dd428dcd0da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;branchNo&quot;)/div[@class=&quot;list-container  ng-scope&quot;]/div[@class=&quot;list-arrow&quot;]/div[1]/i[@class=&quot;glyphicons play&quot;]</value>
+      <webElementGuid>f6f3df94-f33b-4edd-afb2-60704bf35a09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//list[@id='branchNo']/div/div[3]/div/i</value>
+      <webElementGuid>56e84e59-804e-4b58-8f95-01a179b2e47e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/i</value>
+      <webElementGuid>092984d2-f89e-4c33-8cec-942499965731</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

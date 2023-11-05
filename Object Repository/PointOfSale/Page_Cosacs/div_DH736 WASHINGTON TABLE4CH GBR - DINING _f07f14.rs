@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DH736 WASHINGTON TABLE4CH GBR - DINING _f07f14</name>
+   <tag></tag>
+   <elementGuidId>e5932eed-f203-46bd-80e7-d28e3f22ef76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-control-static.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='retDescription']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8ff39b75-71e2-4e8a-bb1b-09166865215c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control-static ng-binding</value>
+      <webElementGuid>ee70b695-426c-4530-b128-9feab3061cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DH736 WASHINGTON TABLE4CH G/BR - DINING SET- 5 PCE-GOLDEN BROWN</value>
+      <webElementGuid>3f886e4e-60fe-46cd-a5b1-2cf6e0fe5924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;retDescription&quot;)/div[@class=&quot;form-control-static ng-binding&quot;]</value>
+      <webElementGuid>685ca263-a4bf-4669-b1c4-99fc56d1c343</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='retDescription']/div</value>
+      <webElementGuid>7042e2e3-02b0-42b9-b9a7-1c6f97a16f08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[3]/div</value>
+      <webElementGuid>f74f11dd-77c6-4286-8ba5-209a095ac36e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DH736 WASHINGTON TABLE4CH G/BR - DINING SET- 5 PCE-GOLDEN BROWN' or . = 'DH736 WASHINGTON TABLE4CH G/BR - DINING SET- 5 PCE-GOLDEN BROWN')]</value>
+      <webElementGuid>176138c6-0d37-419c-87a7-c3b5df3fab86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

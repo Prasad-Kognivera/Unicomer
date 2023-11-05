@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify warranty menu and sub menu's present under warranty.</description>
+   <name>TC_011_ToVerifyMenuUnderWarranty</name>
+   <tag>warrantyMenu</tag>
+   <comment></comment>
+   <testCaseGuid>b344315f-64e5-4c0d-8b07-39e239902eb0</testCaseGuid>
+</TestCaseEntity>

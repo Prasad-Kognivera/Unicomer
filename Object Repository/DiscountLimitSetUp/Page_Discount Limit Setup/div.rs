@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>f6139967-b2c0-4c72-b9fb-f1d7b377ea54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>list.form-control-static.ng-pristine.ng-untouched.ng-valid.ng-scope.ng-isolate-scope > div.list-container.ng-scope > div.list-arrow > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='body']/div/div[2]/table/tbody/tr/td[2]/list/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bb231a78-2751-4068-b0e0-d14d62db8643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/div[@class=&quot;pos-sales ng-scope&quot;]/div[@class=&quot;col-lg-9 col-md-9 col-md-offset-1&quot;]/table[@class=&quot;data table table-striped table-bordered table-hover table-responsive col-lg-10 col-md-10&quot;]/tbody[1]/tr[1]/td[@class=&quot;col-lg-3 col-md-3&quot;]/list[@class=&quot;form-control-static ng-pristine ng-untouched ng-valid ng-scope ng-isolate-scope&quot;]/div[@class=&quot;list-container  ng-scope&quot;]/div[@class=&quot;list-arrow&quot;]/div[1]</value>
+      <webElementGuid>f3086bad-d5a9-4526-8168-3da4c1ec8453</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='body']/div/div[2]/table/tbody/tr/td[2]/list/div/div[3]/div</value>
+      <webElementGuid>224439bd-4575-42f5-9f89-9e7fccf0cc58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/list/div/div[3]/div</value>
+      <webElementGuid>98c92840-487e-4d5a-9bc1-22838ddcb045</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

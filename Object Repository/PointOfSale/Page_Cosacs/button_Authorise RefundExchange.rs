@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Authorise RefundExchange</name>
+   <tag></tag>
+   <elementGuidId>e72cd1a5-caa4-443f-91ed-2bc96efc0988</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-lg.btn-block.btn-primary.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='return-list']/div/article/div/div[3]/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>eb8ae498-9097-4376-8cda-459083bb3b9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg btn-block btn-primary ng-scope</value>
+      <webElementGuid>f72cfab3-76db-4621-9fff-be3f9309d389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>!cart.manualReturn</value>
+      <webElementGuid>eb518b2a-06f5-414b-84ba-e8062a40d0e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>requestReturnAuthorisation()</value>
+      <webElementGuid>503e4aec-01df-4cf0-817f-24817ded4ef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Authorise Refund/Exchange
+                                </value>
+      <webElementGuid>3a55c77a-e5d3-41a3-8765-e0d7630a1ba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;return-list&quot;)/div[@class=&quot;row col-lg-12 col-md-12&quot;]/article[@class=&quot;row&quot;]/div[1]/div[@class=&quot;col-lg-4 col-md-4 pull-right form-control-static&quot;]/div[@class=&quot;row ng-scope&quot;]/div[@class=&quot;pull-right&quot;]/button[@class=&quot;btn btn-lg btn-block btn-primary ng-scope&quot;]</value>
+      <webElementGuid>4ec8eb55-ee98-47dc-a88b-f892713b14a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='return-list']/div/article/div/div[3]/div/div/button</value>
+      <webElementGuid>f52fc3f2-a437-48c1-ad06-1bd9f7492667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/button</value>
+      <webElementGuid>54010e0a-c774-447d-b655-aeeb381af625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Authorise Refund/Exchange
+                                ' or . = 'Authorise Refund/Exchange
+                                ')]</value>
+      <webElementGuid>e607b2d0-abe6-4e6d-b0cb-f3c0b0b3b03f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

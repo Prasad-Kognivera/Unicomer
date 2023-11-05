@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify error message is displayed when user tried to search order without entering any search criteria and directly click on search button</description>
+   <name>TC_022_ToVerifyErrorMessage</name>
+   <tag>searchOrder</tag>
+   <comment></comment>
+   <testCaseGuid>d049ef4b-5ba2-49c9-99c7-3e0d46179c76</testCaseGuid>
+</TestCaseEntity>

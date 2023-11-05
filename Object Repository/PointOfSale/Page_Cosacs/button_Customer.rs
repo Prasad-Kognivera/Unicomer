@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Customer</name>
+   <tag></tag>
+   <elementGuidId>130b5877-ed17-4017-a4e2-4596c788d49b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='body']/div/section/div/div/div[2]/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.tab-select.btn-default.btn-lg.btn-block.glyphicons.parents.bb-btn-active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2d176800-86d6-491e-b9d2-fec0cd472c4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-click</name>
+      <type>Main</type>
+      <value>setView('customer')</value>
+      <webElementGuid>77176468-2702-4fcb-9188-929dd8149c45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn tab-select btn-default btn-lg btn-block glyphicons parents bb-btn-active</value>
+      <webElementGuid>1901ac02-f6f3-4c3e-8380-7e41def1908f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-class</name>
+      <type>Main</type>
+      <value>{'btn-primary active': views.customer.visible}</value>
+      <webElementGuid>fdc5c935-8340-4bbd-8fc5-fb6e0364522a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   Customer</value>
+      <webElementGuid>3fc810f8-9dc5-4faa-935d-a01b44a25455</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/div[@class=&quot;pos-sales ng-scope saleContainer&quot;]/section[@class=&quot;row sale-main&quot;]/div[@class=&quot;col-md-9 col-sm-10&quot;]/div[@class=&quot;row text-center&quot;]/div[@class=&quot;col-lg-11 col-md-11&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-3 col-md-3 no-margin no-pad&quot;]/button[@class=&quot;btn tab-select btn-default btn-lg btn-block glyphicons parents bb-btn-active&quot;]</value>
+      <webElementGuid>c459d6c2-05e5-4cc0-9292-4038151d828b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='body']/div/section/div/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>6c89b8fa-22dd-4a87-a047-dc5ec6658795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>054ab722-4e43-4428-a449-30f5995be0a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '   Customer' or . = '   Customer')]</value>
+      <webElementGuid>83f96405-9d9b-4e8d-a3c7-f3712310323d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

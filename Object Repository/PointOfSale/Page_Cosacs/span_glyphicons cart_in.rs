@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_glyphicons cart_in</name>
+   <tag></tag>
+   <elementGuidId>ea0d5c4e-f49b-40e4-ac2e-a05dfa3d1d8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='resultsContainerTouch']/div/div[2]/div/h4/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicons.cart_in</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d992f7c0-0893-4341-b0fd-ce330a4bd319</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicons cart_in</value>
+      <webElementGuid>c9cc2947-3c11-4f0e-a370-583e7bfd97c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Add to cart</value>
+      <webElementGuid>81fd1776-48ac-41f4-8cd0-497a00d82d84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resultsContainerTouch&quot;)/div[@class=&quot;search-product result search-result col-lg-3 col-md-3 no-margin grid-item ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12&quot;]/h4[@class=&quot;compact&quot;]/span[@class=&quot;glyphicons cart_in&quot;]</value>
+      <webElementGuid>27fd8329-9e14-46d8-97a2-88584b1ffca3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='resultsContainerTouch']/div/div[2]/div/h4/span</value>
+      <webElementGuid>b0ebdd93-d2ca-4052-a3aa-f14a19b5f798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4/span</value>
+      <webElementGuid>4d622564-8034-4688-bd3c-a82a91d7a98a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Add to cart']</value>
+      <webElementGuid>d30a0e55-1844-49ff-9aef-1d68ca6f5854</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

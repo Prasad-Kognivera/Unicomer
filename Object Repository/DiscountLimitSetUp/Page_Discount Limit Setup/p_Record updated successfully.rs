@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Record updated successfully</name>
+   <tag></tag>
+   <elementGuidId>4d294ecc-76d6-4842-8da3-90970d83f745</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.growl-message.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6d75f811-840b-4f1d-afbe-1683cbe0abae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-bind-html</name>
+      <type>Main</type>
+      <value>growl.content</value>
+      <webElementGuid>b93515fe-e2c9-4cdc-a1e3-d1e332f07ccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>growl-message ng-binding</value>
+      <webElementGuid>9d5731d6-3a39-4bd6-a1f5-b0aa70f63771</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Record updated successfully</value>
+      <webElementGuid>3f4cd2e7-f34b-4308-bc62-74c6264ce403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;growl-container growl-fixed.top-center row&quot;]/article[@class=&quot;growl-item ng-scope&quot;]/div[@class=&quot;alert alert-success alert-dismissable&quot;]/p[@class=&quot;growl-message ng-binding&quot;]</value>
+      <webElementGuid>882c92a9-6342-4de8-9a18-4020bc7478ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>4a86fc5a-14b3-4bb9-a017-739dd8d5e43a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Record updated successfully' or . = 'Record updated successfully')]</value>
+      <webElementGuid>b0520075-6350-4442-a6ed-280eeb02cdfc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

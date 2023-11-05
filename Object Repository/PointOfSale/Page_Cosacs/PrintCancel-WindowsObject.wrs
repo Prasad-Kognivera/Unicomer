@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>PrintCancel-WindowsObject</name>
+   <tag></tag>
+   <locator>//*[@id=&quot;sidebar&quot;]//print-preview-button-strip//div/cr-button[2]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

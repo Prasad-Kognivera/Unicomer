@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the sub menu's present under logistic menu</description>
+   <name>TC_009_ToVerifyMenuUnderLogistics</name>
+   <tag>logisticMenu</tag>
+   <comment></comment>
+   <testCaseGuid>cef4044f-3b44-4628-86f7-7ac9d11f4443</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To Verify user is able to search the order by entering valid search criteria</description>
+   <name>TC_021_ToVerifyUserIsAbleToSearchOrder</name>
+   <tag>searchOrder</tag>
+   <comment></comment>
+   <testCaseGuid>be3f50ef-c13a-41a7-8eef-21549f47224f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify menu and sub menu's under Administration</description>
+   <name>TC_014_ToVerifyMenuUnderAdministration</name>
+   <tag>administrationMenu</tag>
+   <comment></comment>
+   <testCaseGuid>efb5d3b6-72e7-4cda-8923-7b40cf21d024</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select CSR</name>
+   <tag></tag>
+   <elementGuidId>b4ae3588-267f-4ec9-b0b0-d0ef3b5fc7ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//list[@id='soldBy']/div/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e235e288-a6ad-4d55-8d8c-608a0d07d025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-value ng-binding</value>
+      <webElementGuid>fc2e67db-407c-48ea-b216-67ef2eccd7c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-hide</name>
+      <type>Main</type>
+      <value>selectedValue</value>
+      <webElementGuid>b4204cfb-d6f5-4404-9401-14e6023de759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select CSR</value>
+      <webElementGuid>9142b6fd-47cb-4229-94c0-01fb216d20cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;soldBy&quot;)/div[@class=&quot;list-container  ng-scope&quot;]/div[@class=&quot;list-placeholder&quot;]/span[@class=&quot;list-value ng-binding&quot;]</value>
+      <webElementGuid>cf59cd6b-f984-4ea5-bab5-6fe495311680</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//list[@id='soldBy']/div/div/span[2]</value>
+      <webElementGuid>53380849-b767-4477-a7a3-84eb8f5ed68d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>a70b9db2-692d-4fd8-ab47-8f0b81f093e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select CSR' or . = 'Select CSR')]</value>
+      <webElementGuid>fa243af9-1f5b-4656-905c-a61cc7392964</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

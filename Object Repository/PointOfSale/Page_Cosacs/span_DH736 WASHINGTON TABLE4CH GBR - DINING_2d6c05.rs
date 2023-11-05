@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DH736 WASHINGTON TABLE4CH GBR - DINING_2d6c05</name>
+   <tag></tag>
+   <elementGuidId>7c2f4f30-b517-47b6-91f3-269b659598e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='resultsContainerTouch']/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.item-description.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b658c9d0-2258-4c72-969d-0d41a5d3d061</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-description ng-binding</value>
+      <webElementGuid>9d50d94f-2b64-402a-8b75-ef9239e6f873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DH736 WASHINGTON TABLE4CH G/BR - DINING SET- 5 PCE-GOLDEN BROWN</value>
+      <webElementGuid>232539a7-a97b-4e17-bf2e-e83158de55c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resultsContainerTouch&quot;)/div[@class=&quot;search-product result search-result col-lg-3 col-md-3 no-margin grid-item ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12&quot;]/span[@class=&quot;item-description ng-binding&quot;]</value>
+      <webElementGuid>efbe48a0-5c98-4b55-b385-a1dfa19f055f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='resultsContainerTouch']/div/div/div/span</value>
+      <webElementGuid>2cc13a6b-e23c-491f-b19d-391583bfd767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>0604c8f0-e470-41e7-9974-390782f5f425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'DH736 WASHINGTON TABLE4CH G/BR - DINING SET- 5 PCE-GOLDEN BROWN' or . = 'DH736 WASHINGTON TABLE4CH G/BR - DINING SET- 5 PCE-GOLDEN BROWN')]</value>
+      <webElementGuid>27b46be1-0610-4b2d-b8bf-2d245a03f22c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/span</value>
+      <webElementGuid>5886e37f-4331-4eb7-848e-47e350380092</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
