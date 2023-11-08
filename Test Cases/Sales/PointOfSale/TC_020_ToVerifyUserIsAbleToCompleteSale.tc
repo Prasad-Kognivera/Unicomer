@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify user is able to complete the sale successfully.
-Search Product as DH736
-Select the searched product
-Search for customer and select customer
-Verify Basket.
-Select payment method as cash
-select CSR
+   <description>To verify user is able to complete the sale successfully.&#xd;
+Search Product as DH736&#xd;
+Select the searched product&#xd;
+Search for customer and select customer&#xd;
+Verify Basket&#xd;
+Select payment method as cash&#xd;
+select CSR&#xd;
 Click on Pay button</description>
    <name>TC_020_ToVerifyUserIsAbleToCompleteSale</name>
    <tag>pointOfSale</tag>

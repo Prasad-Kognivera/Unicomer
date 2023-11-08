@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify user is able to add new discount limit entry.</description>
+   <description>To verify user is able to add new discount limit entry</description>
    <name>TC_025_ToVerifyUserIsAbleToAddNewDiscount</name>
    <tag>discountLimitSetUp</tag>
    <comment></comment>

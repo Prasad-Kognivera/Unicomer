@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify sub menu's present under Payments menu.</description>
+   <description>To verify sub menu's present under Payments menu</description>
    <name>TC_008_ToVerifyMenuUnderPayments</name>
    <tag>paymentMenu</tag>
    <comment></comment>

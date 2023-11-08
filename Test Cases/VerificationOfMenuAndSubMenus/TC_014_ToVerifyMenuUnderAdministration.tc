@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify menu and sub menu's under Administration.</description>
+   <description>To verify menu and sub menu's under Administration</description>
    <name>TC_014_ToVerifyMenuUnderAdministration</name>
    <tag>administrationMenu</tag>
    <comment></comment>

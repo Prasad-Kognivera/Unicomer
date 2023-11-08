@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify error message is displayed when wrong username and password is entered.</description>
+   <description>To verify error message is displayed when wrong username and password is entered</description>
    <name>TC_002_Invalid Login</name>
    <tag>login</tag>
    <comment></comment>

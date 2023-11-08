@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>ToVerifyCancelButtonOnDeletePopUp.</description>
+   <description>ToVerifyCancelButtonOnDeletePopUp</description>
    <name>TC_027_ToVerifyCancelButtonOnDeletePopUp</name>
    <tag>discountLimitSetUp</tag>
    <comment></comment>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify sub menu's present under Non Stock menu.</description>
+   <description>To verify sub menu's present under Non Stock menu</description>
    <name>TC_007_ToVerifyMenuUnderNonStock</name>
    <tag>nonStockMenu</tag>
    <comment></comment>

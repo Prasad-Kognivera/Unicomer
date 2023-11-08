@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify user is abel to search the customer on POS screen.</description>
+   <description>To verify user is abel to search the customer on POS screen</description>
    <name>TC_017_ToVerifyCustomerSearch</name>
    <tag>pointOfSale</tag>
    <comment></comment>

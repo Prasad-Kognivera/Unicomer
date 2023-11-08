@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify user is able to update discount.</description>
+   <description>To verify user is able to update discount</description>
    <name>TC_026_ToVerifyUserIsAbleToUpdateDiscount</name>
    <tag>discountLimitSetUp</tag>
    <comment></comment>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify payment methods available under point of sale screen.</description>
+   <description>To verify payment methods available under point of sale screen</description>
    <name>TC_019_ToVerifyPaymentOption</name>
    <tag>pointOfSale</tag>
    <comment></comment>

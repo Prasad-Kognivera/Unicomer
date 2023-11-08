@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify search result displays only courts record if searched with courts..</description>
+   <description>To verify search result displays only courts record if searched with courts.</description>
    <name>TC_029_ToVerifySearchForStoreCourts</name>
    <tag>discountLimitSetUp</tag>
    <comment></comment>

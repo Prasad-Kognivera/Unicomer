@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify the sub menu under Sales menu.</description>
+   <description>To verify the sub menu under Sales menu</description>
    <name>TC_005_ToVerifyMenuUnderSales</name>
    <tag>sales menu and sub menu's</tag>
    <comment></comment>
