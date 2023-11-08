@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify user is able to delete discount limit.</description>
+   <description>To verify user is able to delete discount limit..</description>
    <name>TC_028_ToVerifyDeleteFunctionality</name>
    <tag>discountLimitSetUp</tag>
    <comment></comment>

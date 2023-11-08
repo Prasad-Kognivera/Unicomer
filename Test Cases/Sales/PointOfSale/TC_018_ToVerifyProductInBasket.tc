@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify product added from search product screen is added to basket and it should be same as selected in product search screen</description>
+   <description>To verify product added from search product screen is added to basket and it should be same as selected in product search screen.</description>
    <name>TC_018_ToVerifyProductInBasket</name>
    <tag>pointOfSale</tag>
    <comment></comment>

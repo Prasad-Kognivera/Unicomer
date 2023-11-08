@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify the footer section once the user logged into the application</description>
+   <description>To verify the footer section once the user logged into the application.</description>
    <name>TC_004_VerifyFooter</name>
    <tag>footer</tag>
    <comment></comment>

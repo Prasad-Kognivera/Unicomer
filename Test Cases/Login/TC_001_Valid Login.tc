@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify user is able to login successfully with valid username and password</description>
+   <description>To verify user is able to login successfully with valid username and password.</description>
    <name>TC_001_Valid Login</name>
    <tag>login</tag>
    <comment></comment>

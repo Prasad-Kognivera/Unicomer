@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To Verify user is able to clear the search result</description>
+   <description>To Verify user is able to clear the search result.</description>
    <name>TC_023_ToVerifyUserIsAbleToClearTheSearchResult</name>
    <tag>searchOrder</tag>
    <comment></comment>

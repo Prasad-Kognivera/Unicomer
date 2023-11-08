@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify sub menu's under service menu.</description>
+   <description>To verify sub menu's under service menu</description>
    <name>TC_010_ToVerifyMenuUnderService</name>
    <tag>serviceMenu</tag>
    <comment></comment>

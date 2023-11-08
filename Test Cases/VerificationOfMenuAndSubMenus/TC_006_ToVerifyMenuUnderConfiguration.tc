@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify the sub menu's present under configuration menu</description>
+   <description>To verify the sub menu's present under configuration menu.</description>
    <name>TC_006_ToVerifyMenuUnderConfiguration</name>
    <tag>configurationMenu</tag>
    <comment></comment>

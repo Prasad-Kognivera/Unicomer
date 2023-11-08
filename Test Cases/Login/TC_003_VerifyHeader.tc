@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To verify header icons for Home, My Profile and logout button is displayed once user login into the application</description>
+   <description>To verify header icons for Home, My Profile and logout button is displayed once user login into the application.</description>
    <name>TC_003_VerifyHeader</name>
    <tag>header</tag>
    <comment></comment>
