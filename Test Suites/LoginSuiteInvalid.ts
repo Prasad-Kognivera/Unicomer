@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>LoginSuite</name>
+   <name>LoginSuiteInvalid</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>6bc1af24-b2cd-4a3c-9485-4a369b627994</testSuiteGuid>
+   <testSuiteGuid>8c29008e-c9f0-43a1-b66c-fb3487a2b407</testSuiteGuid>
    <testCaseLink>
-      <guid>8f3518c9-7543-49cc-9b46-6039e76cd053</guid>
+      <guid>5202bc99-ff7f-4c55-9e65-db6a5f08fb85</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/TC_001_Valid Login</testCaseId>
+      <testCaseId>Test Cases/Login/TC_002_Invalid Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
